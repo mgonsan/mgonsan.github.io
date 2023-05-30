@@ -30,3 +30,7 @@ em {
 img {
 	display: inline;
 }
+
+table {
+	font-size: 16px;
+}
