@@ -31,6 +31,10 @@ img {
 	display: inline;
 }
 
+th,td {
+	margin: 0px;
+}
+
 table {
-	font-size: 16px;
+	border:1px solid black;
 }
